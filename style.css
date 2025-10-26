@@ -1000,8 +1000,8 @@ form .submit-btn:hover {
 
 #project .project-box:hover {
     border: 1px solid #8b34d6;
-    background: white;
-    color: #1E2128 !important;
+    background: rgb(83, 83, 83);
+    /* color: #1E2128 !important; */
 }
 
 #participate.participate {
